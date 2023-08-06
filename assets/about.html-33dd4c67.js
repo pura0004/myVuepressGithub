@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-22a39d25","path":"/about.html","title":"Using a layout","lang":"en-US","frontmatter":{"title":"Using a layout","layout":"CustomLayout"},"headers":[],"git":{"updatedTime":1691277870000,"contributors":[{"name":"Jishnu Purahoo","email":"pura0004@algonquinlive.com","commits":5}]},"filePathRelative":"about.md"}');export{t as data};
